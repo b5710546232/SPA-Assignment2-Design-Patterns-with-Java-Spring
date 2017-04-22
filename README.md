@@ -21,7 +21,7 @@ Detailed Installation of Apache Tomcat refers to this [How to setup tomcat with 
 After finished home page of this project should pop up once the server is ready.
 
 ### How to run
-    1.  run tomcap server
+    1.  run tomcat server
 
     2. open url http://localhost:8080/assignment2/test
 
