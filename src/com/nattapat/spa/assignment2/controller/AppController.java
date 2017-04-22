@@ -1,4 +1,4 @@
-package com.pakponj.spa.assignment2.controller;
+package com.nattapat.spa.assignment2.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

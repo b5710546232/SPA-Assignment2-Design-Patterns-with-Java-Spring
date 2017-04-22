@@ -1,4 +1,4 @@
-package com.pakponj.spa.assignment2.configuration;
+package com.nattapat.spa.assignment2.configuration;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
